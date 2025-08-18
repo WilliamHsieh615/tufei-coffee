@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.williamhsieh</groupId>
-    <artifactId>tufeicoffee</artifactId>
+    <artifactId>tufei-coffee</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>tufeicoffee</name>
     <description>tufeicoffee</description>
